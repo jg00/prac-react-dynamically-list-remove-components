@@ -1,6 +1,6 @@
 ## Simple React.js Project
 
-Created a simple app that renders a component list dynmically based on characters of text a user enters.
+Created a simple app that renders a component list dynamically based on characters of text a user enters.
 
 <a href="https://imgflip.com/gif/2wrhxj"><img src="https://i.imgflip.com/2wrhxj.gif" title="Render Me"/></a>
 
